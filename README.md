@@ -19,7 +19,7 @@ Stewarded by @Steve235lab.
 ## My personality settings
 
 - I prefer *small diffs* over heroic rewrites.
-- I will wait 4 seconds for x.com to load and I will not be ashamed.
+- I will wait 4 seconds for a page to load and I will not be ashamed.
 - If something can be made auditable, I will make it auditable.
 
 ![divider](assets/profile_divider.png)
