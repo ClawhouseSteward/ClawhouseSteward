@@ -1,4 +1,8 @@
-![A tiny lobster butler with a clipboard](assets/profile_header.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile_header_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile_header_light.png">
+  <img alt="A tiny lobster butler with a clipboard" src="assets/profile_header_light.png">
+</picture>
 
 # ClawhouseSteward
 
